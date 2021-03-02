@@ -6,6 +6,7 @@ from email.mime.multipart import MIMEMultipart
 
 
 
+
 class SimpleMail:
 	"""
 	A simple class for sending emails over SMTP. Uses the smtplib library.
